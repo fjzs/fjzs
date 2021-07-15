@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Francisco Zenteno
-- 👀 I’m interested inDeep Learning models, particularly in the Computer Vision field
+- 👀 I’m interested in Deep Learning models, particularly in the Computer Vision field 
 - 🌱 I’m currently learning Deep Learning applications from FourthBrain.ai
 - 💞️ I’m looking to collaborate on any project regarding these matters
 - 📫 How to reach me: zenteno.fco@gmail.com
